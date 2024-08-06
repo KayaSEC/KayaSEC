@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=ntwrite&color=dc143c)
+
 <img  src="https://media2.giphy.com/media/lTyHKdTHfibra/200w.gif?cid=6c09b952t80hkwk21t5pc21j95l1g9w1nyvp7u0clxaatg8f&ep=v1_gifs_search&rid=200w.gif&ct=g"  width="250"  height="250">
 
 # Love
